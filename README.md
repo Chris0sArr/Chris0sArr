@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chris0sArr
 - 👀 I’m interested in ... Develop Android Apps, Games
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... C, Python
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... @Chrisarrruda on Instagram!!
 
 <!---
