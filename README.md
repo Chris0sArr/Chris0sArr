@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Chris0sArr
-- 👀 I’m interested in ... Develop Android Apps, Games
-- 🌱 I’m currently learning ... C, Python
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... @Chrisarrruda on Instagram!!
+```js
+import Desenvolvedor from "Chris0s";
 
-<!---
-Chris0sArr/Chris0sArr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+class SobreMim extends Desenvolvedor {
+  nome = "Christian Arruda";
+  area = "Dev";
+  trabalho = "Autonomo";
+  local = "São Paulo - SP";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["Android-Java","Python"];
+  frameworks = ["Flutter"];
+}
+```
